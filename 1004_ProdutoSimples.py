@@ -1,3 +1,3 @@
 x, y = map(int, input().split())
 
-print(x + y)
+print("PROD = ", x * y)
