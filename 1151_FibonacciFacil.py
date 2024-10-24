@@ -5,5 +5,4 @@ def fibonacci_loop(n):
         a, b = b, a + b 
 
 n = int(input())
-for i in range(n):
-    print(i,fibonacci_loop(n))
+fibonacci_loop(n)
