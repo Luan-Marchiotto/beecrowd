@@ -10,5 +10,7 @@ public class SomaSimples_1003 {
         int soma = a + b;
 
         System.out.println(soma);
+
+        sc.close();
     }
 }
