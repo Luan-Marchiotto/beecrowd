@@ -1,6 +1,4 @@
 while True:
-
-    
     n = int(input())
     
     if n == 0:
@@ -30,7 +28,9 @@ while True:
 
     if soma_total < limite_inferior:
         print(f"Mais {limite_inferior - soma_total} mg")
+
     elif soma_total > limite_superior:
         print(f"Menos {soma_total - limite_superior} mg")
+
     else:
         print(f"{soma_total} mg")
