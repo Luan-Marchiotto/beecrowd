@@ -10,4 +10,3 @@ if A < B + C and B < A + C and C < A + B:
 
 else:
     print(f"Area = {C * (A + B) / 2 :.1f}")
-
