@@ -17,7 +17,6 @@ public class CalculoSimples_1010  {
             int b_1 = Integer.parseInt(valores1Array[1]);
             double c_1 = Double.parseDouble(valores1Array[2]);
 
-            // Convertendo os valores da segunda linha
             int a_2 = Integer.parseInt(valores2Array[0]);
             int b_2 = Integer.parseInt(valores2Array[1]);
             double c_2 = Double.parseDouble(valores2Array[2]);
