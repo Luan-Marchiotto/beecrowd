@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class CalculoSimples_1010  {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
 
         try (Scanner sc = new Scanner(System.in)){
