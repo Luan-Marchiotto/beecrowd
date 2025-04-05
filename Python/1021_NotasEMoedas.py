@@ -1,7 +1,7 @@
 N = float(input())
 
 if (0 <= N <= 1000000.00):
-
+    
     print("NOTAS:")
     notas = N / 100
     print("%d nota(s) de R$ 100.00" % notas)
