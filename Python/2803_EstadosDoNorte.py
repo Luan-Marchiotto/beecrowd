@@ -12,5 +12,6 @@ regiao = {
 
 if estado in regiao:
     print(regiao[estado])
+    
 else:
     print("Outra regiao")
