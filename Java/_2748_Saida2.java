@@ -1,11 +1,11 @@
-public class Saida3_2749 {
+public class _2748_Saida2 {
     public static void main(String[] args) {
         System.out.println("---------------------------------------");
-        System.out.println("|x = 35                               |");
+        System.out.println("|        Roberto                      |");
         System.out.println("|                                     |");
-        System.out.println("|               x = 35                |");
+        System.out.println("|        5786                         |");
         System.out.println("|                                     |");
-        System.out.println("|                               x = 35|");
+        System.out.println("|        UNIFEI                       |");
         System.out.println("---------------------------------------");
     }
 }

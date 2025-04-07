@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TempoDeJogoComMinutos_1047 {
+public class _1047_TempoDeJogoComMinutos {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
 

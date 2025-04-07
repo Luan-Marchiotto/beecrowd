@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class BobConduite_1589 {
+public class _1589_BobConduite {
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)){
             int rep, a, b;

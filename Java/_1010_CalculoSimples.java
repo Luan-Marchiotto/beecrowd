@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculoSimples_1010  {
+public class _1010_CalculoSimples  {
     @SuppressWarnings("unused")
     public static void main(String[] args) {
 

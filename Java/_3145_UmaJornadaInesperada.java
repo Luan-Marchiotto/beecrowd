@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UmaJornadaInesperada_3145 {
+public class _3145_UmaJornadaInesperada {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             int quantidade = sc.nextInt();

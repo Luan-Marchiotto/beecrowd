@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vitoria_e_a_Indecisão_1924{
+public class _1924_Vitoria_e_a_Indecisao{
     @SuppressWarnings("unused")
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)){

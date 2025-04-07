@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FabricaDeChocolate_1573 {
+public class _1573_FabricaDeChocolate {
     public static void main(String[] args) {
         
         try (Scanner sc = new Scanner(System.in)) {

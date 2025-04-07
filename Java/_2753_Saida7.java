@@ -1,4 +1,4 @@
-public class Saida7_2753 {
+public class _2753_Saida7 {
     public static void main(String[] args) {
         System.out.println("97 e a");
         System.out.println("98 e b");

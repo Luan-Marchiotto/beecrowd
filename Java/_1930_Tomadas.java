@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tomadas_1930 {
+public class _1930_Tomadas {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             int[] tomadas = new int[4]; 

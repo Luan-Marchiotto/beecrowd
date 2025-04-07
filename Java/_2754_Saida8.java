@@ -1,4 +1,4 @@
-public class Saida8_2754 {
+public class _2754_Saida8 {
     public static void main(String[] args) {
         System.out.println("234.345000 - 45.698000");
         System.out.println("234 - 46");

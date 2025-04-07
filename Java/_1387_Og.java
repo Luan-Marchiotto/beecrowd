@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Og_1387 {
+public class _1387_Og {
     public static void main(String[] args) {
         
         try(Scanner sc = new Scanner(System.in)){

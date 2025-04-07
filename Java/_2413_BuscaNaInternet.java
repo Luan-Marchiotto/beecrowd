@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BuscaNaInternet_2413 {
+public class _2413_BuscaNaInternet {
     public static void main(String[] args) {
         
         try(Scanner sc = new Scanner(System.in)){

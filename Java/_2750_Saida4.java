@@ -1,4 +1,4 @@
-public class Saida4_2750 {
+public class _2750_Saida4 {
     public static void main(String[] args) {
         System.out.println("---------------------------------------");
         System.out.println("|  decimal  |  octal  |  Hexadecimal  |");
