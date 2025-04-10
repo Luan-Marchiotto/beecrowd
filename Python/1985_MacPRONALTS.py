@@ -1,4 +1,4 @@
-repeticao = int(input())  # Número de produtos comprados
+repeticao = int(input())
 soma = 0
 
 precos = {
