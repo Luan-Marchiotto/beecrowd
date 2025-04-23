@@ -20,7 +20,7 @@ while True:
         else:
             resultado = None
             
-        ###############################    
+        #----------- 
         if termo1 is None:
             print(resultado - termo2)
         elif termo2 is None:
