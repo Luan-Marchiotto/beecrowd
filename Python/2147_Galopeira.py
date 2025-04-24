@@ -2,7 +2,6 @@ import time
 
 rep = int(input())
 
-
 for i in range(rep):
     inicio = time.time()
     texto = input()
