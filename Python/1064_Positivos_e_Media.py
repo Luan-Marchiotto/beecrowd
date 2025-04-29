@@ -1,5 +1,6 @@
 cont = 0
 soma = 0
+
 for i in range(6):
     x = float(input())
     
