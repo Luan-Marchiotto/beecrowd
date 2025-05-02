@@ -9,5 +9,4 @@ for i in range(6):
         soma += x
         
 print(f"{cont} valores positivos")
-
 print(f"{soma/cont:.1f}")
